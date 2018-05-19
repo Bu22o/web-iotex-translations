@@ -1,0 +1,218 @@
+about.this.file: >-
+  Strings in different locales are auto-generated and maintained by
+  locale_strings.js.
+charity.donated: Donato
+charity.more-info: Maggiori informazioni sul programma di beneficenza IoTeX
+charity.question: Come ho conosciuto IoTeX? Perché ne sono interessato?
+charity.share-message: condividi il tuo atto di gentilezza!
+charity.to: a
+charity.tweet.summary.description: >-
+  Apprezziamo il tuo grande cuore! Oltre ai 16.000 punti unici
+  condivideremo la tua buona azione sul sito di IoTeX!
+charity.tweet.summary.image: >-
+  https://s3.amazonaws.com/web-iotex-static/home/1st-charity-twitter-summary-image-v2.png
+charity.tweet.summary.title: Sei sulla IoTeX Honor Board!
+claim.btn: Reclama i tuoi punti
+contact.btn: Contattaci
+contact.desc: Gli esperti di IoTeX sono pronti a rispondere alle tue domande tramite support@iotex.io
+contact.title: Rimani in contatto
+ethFoundation: Ethereum Foundation
+hall-of-fame.badge-section.title: IoTeX 1st Programma di beneficenza— ETH Foundation
+hall-of-fame.badge-section.unicorn.desc: >
+ Ethereum ha rivoluzionato il mondo blockchain negli ultimi quattro anni è
+  fatto della parola "blockchain" la parola piu ricercata in tempi odierni. Come leader del settore, Ethereum ha
+  fornito <a target = "_ blank"
+  href = ""> https://blog.ethereum.org/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants/ sovvenzioni </a>
+  per alimentare ricercatori e sviluppatori a lavorare su vari fronti per supportare
+  l'intero ecosistema blockchain. IoTeX crede fortemente che possiamo muoverci
+  insieme lungo questo settore grazie a ricerche e collaborazioni rigorose.
+  Abbiamo bisogno di talenti e di menti brillanti per fare colpo sul mondo. Un piccolo
+  ma efficace modo per aiutare la nostra causa è donare ETH all'Ethereum
+  Foundation per aiutare a finanziare la ricerca blockchain.
+
+
+  Per i dettagli sulla partecipazione, si prega di unirsi al canale ufficiale n<a target = "_ blank"
+  href = "https://t.me/IoTeXGroup"> Gruppo Telegram </a> e rimani sintonizzato sulle novità legate allo sviluppo del progetto (ricorda di leggere i messaggi pinnati).
+
+
+  Controlla più dettagli su <a target = "_ blank"
+  href = "https://medium.com/@iotex/iotex-1st-charity-program-update-d1959e67e756"> IoTeX
+  1 ° aggiornamento del programma di beneficenza </a>.
+hall-of-fame.search.label: Cerca in base al tuo hashid o al nome utente
+hall-of-fame.thank-you.message: >
+ Il crowdsourcing come modo di finanziare una causa specifica per un ente di beneficenza non è nuovo, ma
+  IoTeX lo sta facendo tramite "contratti intelligenti" (Smart Contract) e utilizzando l'hype generato dalla criptovaluta per cause caritatevoli. Nei prossimi mesi, sotto il suo programma di premiazione comunitaria, IoTeX continuerà a selezionare alcuni programmi di beneficenza che si allineano con
+  La missione di IoTeX di "Connettere il mondo fisico, blocco dopo blocco" come parte del
+  Programma di ricompensa della comunità di IoTeX.
+
+
+  IoTeX crede nella crescita insieme alla comunità e nella connessione di
+  mondo fisico blocco per blocco. È un obiettivo molto ambizioso ma può essere
+  raggiunto con una squadra forte e una community solidale. Insieme alla
+  community per spingere la frontiera per lo sviluppo della blockchain
+  ecosistema, IoTeX spera davvero che la community possa capire l'intenzione originale
+   e contribuire a promuovere la causa.
+hall-of-fame.title: IoTeX Beneficenza
+home.about.inno.0.desc.keep: >-
+Supporto a milioni di nodi con finalità immediata e bassa latenza,
+  ecologico, progettato per l'IoT
+home.about.inno.0.title.keep: Veloce consenso
+home.about.inno.1.desc.keep: >-
+  Come Plasma,tira fuori gli stati dalla catena principale (Rootchain) per aumentare ulteriormente la privacy,
+  scalabilità e interoperabilità; Trasferimento di valore e dati Crosschain innovativo
+home.about.inno.1.title.keep: Blockchain in Blockchains
+home.about.inno.2.desc.keep: >-
+ Massimizza la privacy con innovativi schemi crittografici come Indirizzo leggeri e stealth e firma dell'anello (ring) di dimensioni costanti
+home.about.inno.2.title.keep: Tecniche di conservazione della privacy incorporate
+home.about.inno.3.desc.keep: "Organizzazione autonoma decentrata per l'IoT, il codice è legge per il mondo dei robot"
+home.about.inno.3.title.keep: Coordinamento autonomo dei dispositivo
+home.about.sol.desc1: >-
+ Nonostante la sua rapida evoluzione, l'IoT è ancora lontano dall'adozione di massa e
+  manca di "killer application" che potrebbero attirare nuovi utenti nell'ecosistema a causa di
+  problemi quali bassa scalabilità, costi operativi elevati, problemi di privacy e mancanza
+  di valori funzionali.
+home.about.sol.desc2: >-
+IoTeX sta affrontando questo problema introducendo la token economy negli spazi IoT come
+  crediamo fortemente che gli incentivi crittografici e lo sforzo della comunità siano
+  le due forze chiave per spingere le innovazioni nello spazio IoT. In breve, IoTeX è la
+  piattaforma blockchain orientata all'IoT di nuova generazione con forte scalabilità,
+  privacy, isolabilità e sviluppo per l'incubazione di nuove applicazioni IoT
+  e ecosistemi.
+home.decentralized-protocol: Una rete decentralizzata per L'Internet of Things
+home.dustin.desc.keep: >-
+  Ph.D in Data Security presso USC. Software engineer dello staff di Intel. 12 anni di
+  esperienza nei sistemi distribuiti, protezione dei contenuti,accelerazione video hardware
+  , streaming video di rete, driver grafici. Crittografia e
+  appassionato di blockchain.
+home.dustin.name.keep: Dustin Xie
+home.dustin.title.keep: Blockchain Engineer
+home.fan.desc.keep: >-
+in precedenza è stato socio fondatore di Sequoia Capital China e
+  Direttore di DFJ ePlanet Ventures. Classificato da Forbes come uno dei principali venture
+  capitalist nella lista annuale di Midas in Cina.
+home.fan.name.keep: Fan Zhang
+home.fan.title.keep: null
+home.guang.desc.keep: >-
+Membro del IEEE. Professore all'Università di Waterloo, Canada. Top Scientist in
+  crittografia e crittografia leggera, reti ad hoc,radiofrequenza e
+  Identificazione (RFID) di sicurezza.
+home.guang.name.keep: Guang Gong
+home.guang.title.keep: null
+home.jack.desc.keep: >-
+  Co-Founding Managing Partner di HCM Capital, Foxconn Technology Group.
+  Co-fondatore e direttore esecutivo di Chained Finance Ltd.,Direttore fondatore ed esecutivo
+   di FnConn e Board Director di Abra.
+home.jack.name.keep: Jack Lee
+home.jack.title.keep: null
+home.jing.desc.keep: >-
+ Socio fondatore di Sparkland Capital, che si concentra su Frontier Tech, guida più di 40
+  investimenti e innovazioni in blockchain, sicurezza e IoT. Consigliere di amministrazione in
+  numerose aziende. Vasta esperienza in startup, investimenti e costruzione
+  di ecosistemi.
+home.jing.name.keep: Jing Sun
+home.jing.title.keep: Co-founder
+home.larry.desc.keep: >-
+  Consulente di gestione presso Oliver Wyman, specializzato in operazioni digitali. doppio in
+  B.S. in Finance & Economics, minore in Visual Arts & Design del MIT.
+  Blockchain e appassionato di IoT.
+home.larry.name.keep: Larry Pang
+home.larry.title.keep: Growth & Community
+home.monika.desc.keep: >-
+  Specialista in tecnologie di comunicazione con profonda competenza in materia di sicurezza informatica,
+  privacy, networking e tecnologie emergenti.
+home.monika.name.keep: Monika Hathaway
+home.monika.title.keep: Communication
+home.nick.desc.keep: >-
+Master in Computer Science presso USC e Bachelor presso University of Wisconsin-
+  Madison. Appassionato di sviluppo web, blockchain e machine learning.
+home.nick.name.keep: Nick Chen
+home.nick.title.keep: Full Stack Intern
+home.paddy.desc.keep: >-
+ Senior Software Engineer presso Microsoft, specializzato in sistemi distribuiti.
+  Contributore attivo in progetti open source. M.S. Computer Science presso Yale
+  Università.
+home.paddy.name.keep: Paddy Kan
+home.paddy.title.keep: Distributed Systems
+home.powered-by: Alimentato da una blockchain incentrata sulla privacy
+home.qevan.desc.keep: >-
+  Ph.D in Machine Learning and Computer Vision at National University of
+  Singapore. Engineering Manager and Research Scientist at Facebook. Growth
+  Hacker. Startup investor and advisor. 20+ publications / patents.
+home.qevan.name.keep: Qevan Guo
+home.qevan.title.keep: Co-founder
+home.raullen.desc.keep: >-
+  Ph.D in Machine Learning e Computer Vision presso la National University of
+  Singapore. Responsabile tecnico e ricercatore scientifico su Facebook. Growth hacker. Investitore e consulente alle startup. più di 20 pubblicazioni / brevetti.
+home.raullen.name.keep: Raullen Chai
+home.raullen.title.keep: Co-founder
+home.section.advisors: IoTeX.Advisors
+home.section.arch: IoTeX.Architettura
+home.section.innovations: IoTeX.Innovazioni
+home.section.investors: IoTeX.Investitori
+home.section.partners: IoTeX.PartnerStrategici
+home.section.roadmap: IoTeX.Roadmap
+home.section.team: IoTeX.Team
+home.section.teamfrom: IoTeX.Team.Background
+home.section.useceses: IoTeX.UseCases
+home.site.description: >-
+  Una rete decentralizzata per Internet of Things (IoT), alimentata da una
+  Blockchain auto-scalabile, estensibile, incentrata sulla privacy. Collegamento del mondo fisico
+  blocco dopo blocco
+home.slogan: Collegamento del mondo fisico Blocco dopo blocco
+home.vedaad.desc.keep: >-
+ Studente presso UC Berkeley, studia EECS e Matematica applicata; ricercatore di blockchain
+  nel team criptoeconomico di Blockchain @ Berkeley
+home.vedaad.name.keep: Vedaad Shakib
+home.vedaad.title.keep: Blockchain Engineering Intern
+home.vincent.desc.keep: >-
+ Laurea in Informatica presso l'Università di Waterloo.Appassionato di Sicurezza e blockchain.
+  
+home.vincent.name.keep: Vincent Vuong
+home.vincent.title.keep: Software Engineer Intern
+home.xinxin.desc.keep: >-
+ Ph.D in Cryptography presso UWaterloo. Sr. Research Engineer presso Bosch Research. 14
+  anni di ricerca e esperienza nel settore della sicurezza delle informazioni e della crittografia.
+  40 e più pubblicazioni / brevetti.
+home.xinxin.name.keep: Xinxin Fan
+home.xinxin.title.keep: Head of Cryptography
+home.zhefeng.desc.keep: >-
+Master in Computer Science presso l'Università della California, San Diego e Bachelor
+  in Matematica e Informatica presso l'Università del Wisconsin-Madison.
+  Appassionato di tecnologia blockchain, machine learning e Internet of Things.
+home.zhefeng.name.keep: Zhefeng Li
+home.zhefeng.title.keep: Blockchain Engineer
+stonevan.twitter: >-
+  Ho appena ottenuto 100 punti gratuiti da IoTeX celebrando la loro prima versione d'anteprima della Testnet.
+   . @iotex_io Vieni e prendi i tuoi!
+subscribe.btn: SOTTOSCRIVI
+subscribe.desc: Con i nostri ultimi progressi ed eventi.
+subscribe.title: RESTA AGGIORNATO
+testnet-preview.home-title: L'anteprima della Testnet(StoneVan) sarà rilasciata il
+testnet-preview.released-event-title: La nostra anteprima della Testnet è stata rilasciata!
+testnet-preview.released-title: L'anteprima della Testnet è stata rilasciata
+topbar.blog: BLOG
+topbar.careers: CARRIERE
+topbar.charity: CARITÀ
+topbar.faq: FAQ
+topbar.home: HOME
+topbar.white-paper: WHITE PAPER
+whitepaper.button.next: SUCCESSIVO
+whitepaper.button.previous: PRECEDENTE
+auth.telegram.invalid_hash: Impossibile accedere con Telegram. Si prega di contattare il nostro Community Manager
+auth.enter_phone_number: Inserisci il numero di telefono
+auth.phone_number: Numero di telefono
+auth.next: Successivo
+auth.login: Login
+auth.or_continue_with_phone_number: O Continua con il numero di telefono
+auth.invalid_request: L'input non è valido
+auth.invalid_phone_number: Il numero di telefono non è valido
+auth.cannot_send_sms: Impossibile inviare SMS a questo numero di telefono
+auth.unsupported_country_code: Il codice Paese non è supportato
+auth.invalid_v_code: Il codice di verifica non è valido
+auth.expired_v_code: Il codice di verifica è scaduto
+auth.verification_code: Codice di verifica
+auth.enter_verification_code: >-
+  Inserisci il codice di verifica a 6 cifre inviato al tuo telefono
+  <strong>%s</strong>
+geetest.loading_captcha: Caricamento captcha ...
+geetest.incorrect_captcha: Si prega di verificare che non sei un robot.
